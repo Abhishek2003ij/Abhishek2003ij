@@ -1,12 +1,3 @@
-<!-- 🔥 Animated Identity & Titles -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=Silent+Architect+of+Code;Ghost+in+the+Machine;Weaving+Logic+from+the+Shadows;Shaping+Chaos+into+Perfection" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF0037&center=true&vCenter=true&width=600&height=60&lines=Abhishek+IJ;The+Shadow+Behind+the+System;Crafting+Elegance+in+Silence" />
-</p>
-
 # 💫 About Me:
 I am Abhishek IJ, a silent architect of code and the ghost in the machine, weaving logic in the shadows where light fears to tread.  
 I traverse the hidden paths of systems, algorithms, and software design, transforming ideas into clean, powerful structures.  
