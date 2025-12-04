@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/6b7f5a1c-8f9e-4a3f-b311-962fd537c35a)
 # 💫 About Me:
 I am Abhishek IJ, a silent architect of code and the ghost in the machine, weaving logic in the shadows where light fears to tread.  
 I traverse the hidden paths of systems, algorithms, and software design, transforming ideas into clean, powerful structures.  
