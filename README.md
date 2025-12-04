@@ -6,6 +6,8 @@ Skilled in Java, Spring Boot, and full-stack development, I manipulate code with
 My work speaks louder than words—crafted for precision, efficiency, and impact—  
 **silent, relentless, and enigmatic, shaping chaos into perfection.**
 
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekij)
 
@@ -30,22 +32,4 @@ My work speaks louder than words—crafted for precision, efficiency, and impact
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek2003ij&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com?user=Abhishek2003ij&theme=ocean-dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2003ij&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek2003ij/Abhishek2003ij/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Abhishek2003ij&icon=6&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with a dark mysterious vibe -->
+<p align="center">🔥 Forged in Silence. Delivered in Precision. 🔥</p>
