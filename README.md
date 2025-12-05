@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/2fe857cb-a2ae-45a7-8bd2-47e33d800219)
-# <img src="https://github.com/user-attachments/assets/b9de417a-4a3c-40f1-9bba-997ccaea85a0" width="30"/> About Me
+# <img src="https://github.com/user-attachments/assets/ff219973-1015-40a5-84ab-2a6ec9f57837" width="60" /> About Me:
 I am Abhishek IJ, a silent architect of code and the ghost in the machine, weaving logic in the shadows where light fears to tread.  
 I traverse the hidden paths of systems, algorithms, and software design, transforming ideas into clean, powerful structures.  
 Skilled in Java, Spring Boot, and full-stack development, I manipulate code with surgical precision—leaving optimized solutions and elegant systems in my wake.  
