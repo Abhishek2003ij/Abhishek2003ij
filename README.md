@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/f325a6b2-35a0-41fa-9f91-8c4eca3981e2" height="200" style="width:100%; min-width:1200px; object-fit:cover;" />
 
 # <img src="https://github.com/user-attachments/assets/fe783215-ff22-4a4d-8202-7fdfb78949a9" width="70" /> About Me:
-Crafting the very sinews of the digital abyss. My dominion is the silent, unseen architecture where logic bends to infernal will. I forge systems in Java and Spring Boot with cursed precision, weaving full-stack constructs of elegant malice. The machines whisper my designs; the code bears my sigil.  
+Crafting the very sinews of the digital abyss. My dominion is the silent, unseen architecture where logic bends to infernal will. I forge systems in Java and Spring Boot with cursed precision, weaving full-stack constructs of elegant malice. The machines whisper my designs; the code bears my sigil. 
 
 My work speaks louder than words—crafted for precision, efficiency, and impact—  
 **silent, relentless, and enigmatic, shaping chaos into perfection.**
