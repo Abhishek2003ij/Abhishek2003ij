@@ -4,7 +4,7 @@
 Crafting the very sinews of the digital abyss. My dominion is the silent, unseen architecture where logic bends to infernal will. I forge systems in Java and Spring Boot with cursed precision, weaving full-stack constructs of elegant malice. The machines whisper my designs; the code bears my sigil.
 
 My work speaks louder than words—crafted for precision, efficiency, and impact—  
-**silent, relentless, and enigmatic, shaping chaos into perfection.**
+**silent, relentless, and enigmatic, shaping chaos into perfection**
 
 ---
 
