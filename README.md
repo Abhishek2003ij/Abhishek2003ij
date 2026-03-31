@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f325a6b2-35a0-41fa-9f91-8c4eca3981e2" height="200" style="width:100%; min-width:1200px; object-fit:cover;" />
-
-# <img src="https://github.com/user-attachments/assets/ee049a18-7306-4bfa-9f0b-c2ba4be5fc5d" width="70" /> About Me:
+# About Me:
 I am a software engineer specializing in backend development with Java and Spring Boot, focused on building scalable, efficient, and maintainable systems. I emphasize clean architecture and high-quality code to ensure reliability and long-term performance.
 
 In addition to backend development, I have a strong interest in data science, machine learning, and natural language processing, where I apply analytical thinking to extract insights and build intelligent solutions.
