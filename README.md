@@ -1,7 +1,13 @@
 <img src="https://github.com/user-attachments/assets/f325a6b2-35a0-41fa-9f91-8c4eca3981e2" height="200" style="width:100%; min-width:1200px; object-fit:cover;" />
 
 # <img src="https://github.com/user-attachments/assets/ee049a18-7306-4bfa-9f0b-c2ba4be5fc5d" width="70" /> About Me:
-Crafting the very sinews of the digital abyss. My dominion is the silent, unseen architecture where logic bends to infernal will. I forge systems in Java and Spring Boot with cursed precision, weaving full-stack constructs of elegant malice. The machines whisper my designs; the code bears my sigil.
+I am a software engineer specializing in backend development with Java and Spring Boot, focused on building scalable, efficient, and maintainable systems. I emphasize clean architecture and high-quality code to ensure reliability and long-term performance.
+
+In addition to backend development, I have a strong interest in data science, machine learning, and natural language processing, where I apply analytical thinking to extract insights and build intelligent solutions.
+
+With a solid foundation in data structures, algorithms, and system design, I approach problem-solving in a structured and analytical manner. I aim to deliver solutions that are optimized, robust, and aligned with real-world requirements.
+
+I am continuously expanding my expertise across modern technologies, with a focus on improving system performance, code quality, and data-driven decision-making.
 
 My work speaks louder than words—crafted for precision, efficiency, and impact—  
 **silent, relentless, and enigmatic, shaping chaos into perfection**
