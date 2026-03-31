@@ -7,9 +7,6 @@ With a solid foundation in data structures, algorithms, and system design, I app
 
 I am continuously expanding my expertise across modern technologies, with a focus on improving system performance, code quality, and data-driven decision-making.
 
-My work speaks louder than words—crafted for precision, efficiency, and impact—  
-**silent, relentless, and enigmatic, shaping chaos into perfection**
-
 ---
 
 ## 🌐 Socials:
