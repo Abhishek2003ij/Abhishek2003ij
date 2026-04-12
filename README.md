@@ -5,7 +5,7 @@ In addition to backend development, I have a strong interest in data science, ma
 
 With a solid foundation in data structures, algorithms, and system design, I approach problem-solving in a structured and analytical manner. I aim to deliver solutions that are optimized, robust, and aligned with real-world requirements.
 
-I am continuously expanding my expertise across modern technologies, with a focus on improving system performance, code quality, and data-driven decision-making.
+I am continuously expanding my expertise across modern technologies, with a focus on improving system performance, code quality, and data-driven decision-making
 
 ---
 
