@@ -1,9 +1,9 @@
 # About Me:
-I am a software engineer specializing in backend development with Java and Spring Boot, focused on building scalable, efficient, and maintainable systems. I emphasize clean architecture and high-quality code to ensure reliability and long-term performance
+I am a software engineer specializing in backend development with Java and Spring Boot, focused on building scalable, efficient, and maintainable systems. I emphasize clean architecture and high-quality code to ensure reliability and long-term performance.
 
-In addition to backend development, I have a strong interest in data science, machine learning, and natural language processing, where I apply analytical thinking to extract insights and build intelligent solutions
+In addition to backend development, I have a strong interest in data science, machine learning, and natural language processing, where I apply analytical thinking to extract insights and build intelligent solutions.
 
-With a solid foundation in data structures, algorithms, and system design, I approach problem-solving in a structured and analytical manner. I aim to deliver solutions that are optimized, robust, and aligned with real-world requirements
+With a solid foundation in data structures, algorithms, and system design, I approach problem-solving in a structured and analytical manner. I aim to deliver solutions that are optimized, robust, and aligned with real-world requirements.
 
 I am continuously expanding my expertise across modern technologies, with a focus on improving system performance, code quality, and data-driven decision-making
 
